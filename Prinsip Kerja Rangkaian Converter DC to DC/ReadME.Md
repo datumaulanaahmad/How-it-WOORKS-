@@ -14,7 +14,7 @@ Terkadang mahasiswa atau pelajar yang sedang menggarap projek elektronik mendapa
 Masalah selesai? 60% sudah, tinggal ybs mencari referensi instalasi di internet. ada buaaaannnyaaakkk. Lalu kembali ke tujuan utama laman ini dibuat, bagaimana sih cara kerjanya? rugi di mana? di kimia ada pertukaran setara, apa yang dikorbankan? Jadi yang dikorbankan untuk menaikkan tegangan adalah perngurangan arus maksimal, dan yang dikorbankan untuk menaikkan arus adalah penurunan tegangan. Secara lebih detail, dari sisi elektron, ketika menaikkan tegangan maka akan menaikkan eneregi potensial dan ketika menaikkan arus maka menaikkan jumlah elektron yang dapat mengalir per detik. Lebih detailnya dapat dilihat pada tabel berikut.
 
 
-![Tabel Perbandingan](Prinsip Kerja Rangkaian Converter DC to DC/Tabel perbandingan.png)
+![Tabelnya ges](Tabel perbandingan.png)
 
 
 ##################################################
