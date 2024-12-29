@@ -12,7 +12,7 @@ Umumnya, perangkat elektronik non-listrik PLN bersumber daya dari baterai, conto
 Terkadang mahasiswa atau pelajar yang sedang menggarap projek elektronik mendapati tegangan kerja komponen adalah 3.3V, yang mana ini akan sulit karena bukan tegangan baterai pasaran. Apa solusinya? yang bersangkutan dapat mencari di amazon baterai 3.3v, pasti ada, namun mahal di ongkir. Ada solusi lain? jelas ada. Inilah saatnya converter DC to DC beraksi. dengan harga yang relatif terjangkau, yang bersangkutan dapat menrubah tegangan baterai yang ada ke tegangan yang diperlukan. Nah ini poin kedua.
 
 Masalah selesai? 60% sudah, tinggal ybs mencari referensi instalasi di internet. ada buaaaannnyaaakkk. Lalu kembali ke tujuan utama laman ini dibuat, bagaimana sih cara kerjanya? rugi di mana? di kimia ada pertukaran setara, apa yang dikorbankan? Jadi yang dikorbankan untuk menaikkan tegangan adalah perngurangan arus maksimal, dan yang dikorbankan untuk menaikkan arus adalah penurunan tegangan. Secara lebih detail, dari sisi elektron, ketika menaikkan tegangan maka akan menaikkan eneregi potensial dan ketika menaikkan arus maka menaikkan jumlah elektron yang dapat mengalir per detik. Lebih detailnya dapat dilihat pada tabel berikut.
-
+![/assets/images/Tabel perbandingan.png]
 
 
 
